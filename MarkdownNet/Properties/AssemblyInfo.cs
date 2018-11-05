@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
 [assembly: AssemblyTitle("MarkdownNet")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Markdown For DotNet")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("infinith")]
 [assembly: AssemblyProduct("MarkdownNet")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
@@ -34,3 +34,6 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+
+// read Log4Net Configuration file
+[assembly: log4net.Config.XmlConfigurator(ConfigFile = @"log4net.MarkdownNet.config.xml", Watch = true)]

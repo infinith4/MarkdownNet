@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>infinith.MarkdownNet</id>
+    <version>1.0.0</version>
+    <title></title>
+    <authors>infinith4</authors>
+    <owners>infinith4</owners>
+    <licenseUrl>https://github.com/infinith4/MarkdownNet</licenseUrl>
+    <projectUrl>https://github.com/infinith4/MarkdownNet</projectUrl>
+    <iconUrl>https://avatars2.githubusercontent.com/u/2270588?s=460&v=4</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Markdown for DotNet</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Markdown .Net</tags>
+  </metadata>
+</package>
