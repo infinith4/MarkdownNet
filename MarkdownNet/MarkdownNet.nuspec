@@ -8,7 +8,7 @@
     <owners>infinith4</owners>
     <licenseUrl>https://github.com/infinith4/MarkdownNet</licenseUrl>
     <projectUrl>https://github.com/infinith4/MarkdownNet</projectUrl>
-    <iconUrl>https://avatars2.githubusercontent.com/u/2270588?s=460&v=4</iconUrl>
+    <iconUrl>https://github.com/infinith4/MarkdownNet/blob/develop/icon.jpg</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Markdown for DotNet</description>
     <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
