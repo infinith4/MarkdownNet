@@ -14,5 +14,9 @@
     <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
     <copyright>Copyright 2018</copyright>
     <tags>Markdown .Net</tags>
+	<dependencies>
+	  <dependency id="CsvHelper" version="7.1.1" />
+      <dependency id="log4net" version="2.0.8" />
+    </dependencies>
   </metadata>
 </package>
