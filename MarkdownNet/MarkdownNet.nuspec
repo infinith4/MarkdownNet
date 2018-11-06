@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>infinith.MarkdownNet</id>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
     <title></title>
     <authors>infinith4</authors>
     <owners>infinith4</owners>
@@ -13,7 +13,7 @@
     <description>Markdown for DotNet</description>
     <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
     <copyright>Copyright 2018</copyright>
-    <tags>Markdown .Net</tags>
+    <tags>Markdown .Net CsvHelper</tags>
 	<dependencies>
 	  <dependency id="CsvHelper" version="7.1.1" />
       <dependency id="log4net" version="2.0.8" />

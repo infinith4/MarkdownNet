@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using GenerateMarkdown.Models;
+using MarkdownNet.Models;
 
-namespace GenerateMarkdown.Utils
+namespace MarkdownNet.Utils
 {
     public class MarkdownTableUtil
     {

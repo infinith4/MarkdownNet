@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using CsvHelper.Configuration;
 
-namespace GenerateMarkdown.Models
+namespace MarkdownNet.Models
 {
     public class TestResultModel
     {
